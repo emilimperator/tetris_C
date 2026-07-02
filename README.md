@@ -2,8 +2,10 @@
 
 A classic Tetris game written in **C** with **SDL2**, built from scratch for the *Basis and Practice in Programming* course (Fall 2025) at Sungkyunkwan University.
 
-<!-- TODO: Add a screenshot or GIF here! e.g. -->
-<!-- ![Gameplay](screenshots/gameplay.gif) -->
+<img width="804" height="563" alt="image" src="https://github.com/user-attachments/assets/fc8a5d75-685b-4a64-993a-3e210ea0d755" />
+
+<img width="960" height="997" alt="gameplay" src="https://github.com/user-attachments/assets/87286b99-ec17-4252-958c-ff240a7558c1" />
+
 
 ## Features
 
