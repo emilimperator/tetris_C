@@ -1,6 +1,6 @@
 # SKKU Tetris
 
-A classic Tetris game written in **C** with **SDL2**, built from scratch for the *Basic Practice and Programming* course (Fall 2025) at Sungkyunkwan University — and extended beyond the base requirements with a scoring system, difficulty levels, and a persistent leaderboard.
+A classic Tetris game written in **C** with **SDL2**, built from scratch for the *Basis and Practice in Programming* course (Fall 2025) at Sungkyunkwan University.
 
 <!-- TODO: Add a screenshot or GIF here! e.g. -->
 <!-- ![Gameplay](screenshots/gameplay.gif) -->
@@ -54,7 +54,7 @@ gcc tetris.c -o tetris $(sdl2-config --cflags --libs)
 
 ## Acknowledgments
 
-Built for the *Basic Practice and Programming* course at SKKU, taught by Prof. Sun Jae Lee, starting from the course's SDL2 skeleton (window/renderer setup and drawing helpers). All game logic — piece definitions, movement, rotation, collision, line clearing, scoring, levels, and the leaderboard — implemented by me.
+Built for the *Basis and Practice in Programming* course at SKKU, taught by Prof. Sun Jae Lee, starting from the course's SDL2 skeleton (window/renderer setup and drawing helpers). All game logic — piece definitions, movement, rotation, collision, line clearing, scoring, levels, and the leaderboard — implemented by me.
 
 ## Author
 
